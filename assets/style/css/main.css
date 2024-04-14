@@ -189,7 +189,7 @@
 #yourcart .container .griditems .allitems .items {
   display: flex;
   gap: 16px;
-  margin: 23px 0 0 23px;
+  margin: 23px 0 15px 23px;
   font-family: "Satoshi";
   position: relative;
 }
@@ -429,7 +429,7 @@
   border-radius: 20px;
   position: absolute;
   z-index: 3;
-  top: 830px;
+  top: 870px;
 }
 .position .container .blackbox div h1 {
   color: #FFFFFF;
@@ -494,7 +494,6 @@
   font-family: "Satoshi";
   font-weight: 400;
   font-size: 14px;
-  width: 248px;
   height: 66px;
   color: #000000;
   opacity: 60%;
@@ -631,12 +630,12 @@
     font-weight: 700;
     font-size: 33px;
     margin-bottom: 14px;
+    margin-top: 50px;
   }
   .mainfooter .container .all .firstitems .longtxt {
     font-family: "Satoshi";
     font-weight: 400;
     font-size: 14px;
-    width: 357px;
     height: 66px;
     color: #000000;
     opacity: 60%;
